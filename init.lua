@@ -578,7 +578,6 @@ require('lazy').setup({
         helm_ls = {},
         java_language_server = {},
         markdown_oxide = {},
-        postgres_lsp = {},
         terraformls = {},
         tflint = {},
         docker_compose_language_service = {},
