@@ -578,7 +578,6 @@ require('lazy').setup({
         jedi_language_server = {},
         rust_analyzer = {},
         helm_ls = {},
-        java_language_server = {},
         markdown_oxide = {},
         terraformls = {},
         tflint = {},
